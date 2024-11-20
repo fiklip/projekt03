@@ -25,7 +25,7 @@ K URL jednotlivých okresů pro stahování dat se uživatel dostane po kliknut�
 
 Spuštění programu ve Windows na příkladu okresu Pelhřimov viz:
 
-`python project03_election_scrapper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=10&xnumnuts=6103" "pelhrimov_export.csv"`
+`python project03_election_scrapper_v2.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=10&xnumnuts=6103" "pelhrimov_export.csv"`
 
 ### Logy u úspěšně spuštěného programu
 
